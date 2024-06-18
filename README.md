@@ -82,6 +82,8 @@ Título
 Gênero
 Número de Exemplares
 
+Para mostrar o novo cadastro basta voce, enviar o comando 'listar' novamente e  automaticamente altera.
+
 Remover livro:
 
 remover [Título do Livro]
